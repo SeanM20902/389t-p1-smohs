@@ -1,5 +1,6 @@
 # Personal Website
 
+https://seanm20902.github.io/389t-p1-smohs/
 Have you:
 
 - [ ] added profile picture
