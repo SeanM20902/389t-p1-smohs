@@ -10,4 +10,4 @@ Custom changes made:
 - github profile
 - linkedin profile (if you have one)
 - made at least one change to the website to personalize it:
- - added Technical Skills section
+    - added Technical Skills section
